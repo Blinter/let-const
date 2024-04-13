@@ -1,10 +1,10 @@
-###ES5 Global Constants
+### ES5 Global Constants
 ```
 var PI = 3.14;
 PI = 42; // stop me from doing this!
 ```
 -----
-###ES2015 Global Constants
+### ES2015 Global Constants
 ```
 /* Write an ES2015 Version */
 let PI = 3.14;
